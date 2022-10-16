@@ -18,7 +18,7 @@
  
  <br>
  
-  ### Entre em contato comigo pelos links abaixo!
+  ### Entre em contato comigo pelo email ou dê uma olhada no meu LinkedIn!
  
 <div> 
   <a href = "mailto:caio.leme10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
