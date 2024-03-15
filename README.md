@@ -1,29 +1,32 @@
-## Hello! I'm Caio 😁
+# About Me
 
- <div>
-   <a href="https://github.com/caio-santos019">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caio-santos019&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-santos019&layout=compact&langs_count=6&theme=dark"/>
+Hi there! 👋 <br>
+I'm Caio, a programming student with a passion for becoming a Java developer. Currently, I'm pursuing a degree in Analysis and Systems Development at Cruzeiro do Sul University.
+## Skills and Interests
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="SCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  
-          
-</div>
- 
- <br>
- 
-  ### Get in contact with me via email or you can check out my LinkedIn!
- 
-<div> 
-  <a href = "mailto:caio.leme10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caio-santos02/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/caio-santos019/caio-santos019/blob/output/github-contribution-grid-snake.svg)
+Here are some of my skills and interests:
 
-</div>
+- Java programming
+- Data structures and algorithms
+- Object-oriented programming
+- Software design
+- Agile methodologies
+- Unit testing
+- Git and GitHub
+
+**I'm always open to connecting with other programmers and learning from them.**
+
+If you're interested in collaborating or simply want to discuss programming, feel free to reach out to me!
+
+## Contact Me
+
+You can find me here:
+<ul>
+ <li><a href = "https://github.com/caio-santos019"> Github </a></li>
+ <li><a href = "https://www.linkedin.com/in/caio-santos02/"> Linkedin </a></li>
+ <li><p>Gmail: caio.leme10@gmail.com</p> </li>
+</ul>
+
+Thanks for stopping by my GitHub profile!
+
+I hope you have a wonderful day!
