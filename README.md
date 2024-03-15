@@ -1,4 +1,4 @@
-## Olá!!! Eu sou o Caio 😁
+## Hello! I'm Caio 😁
 
  <div>
    <a href="https://github.com/caio-santos019">
@@ -18,7 +18,7 @@
  
  <br>
  
-  ### Entre em contato comigo pelo email ou dê uma olhada no meu LinkedIn!
+  ### Get in contact with me via email or you can check out my LinkedIn!
  
 <div> 
   <a href = "mailto:caio.leme10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
