@@ -1,22 +1,24 @@
 # About Me
 
-Hi there! 👋 <br>
-I'm Caio, a programming student with a passion for becoming a Java developer. Currently, I'm pursuing a degree in Analysis and Systems Development at Cruzeiro do Sul University.
+Hi there! 👋 <br><br>
+I'm Caio, a SENAI graduate with a solid foundation in Java and JavaScript programming languages, including object-oriented programming principles, data structures, and algorithms. Proficient in utilizing various development tools and frameworks, including Git, GitHub, and Maven.
 ## Skills and Interests
 
-Here are some of my skills and interests:
+Hands-on experience in building web applications and developing software solutions using Java and JavaScript. 
 
-- Java programming
-- Data structures and algorithms
-- Object-oriented programming
-- Software design
-- Agile methodologies
-- Unit testing
-- Git and GitHub
+Eager to learn new technologies and continuously improve skills to stay at the forefront of the ever-evolving IT landscape. Possessing a strong work ethic, a passion for programming, and a commitment to delivering high-quality results.
 
-**I'm always open to connecting with other programmers and learning from them.**
+## Technical Skills:
 
-If you're interested in collaborating or simply want to discuss programming, feel free to reach out to me!
+<ul>
+<li>Java</li>
+<li>JavaScript</li>
+<li>Object-Oriented Programming</li>
+<li>Data Structures and Algorithms</li>
+<li>Git</li>
+<li>GitHub</li>
+<li>Maven</li>
+</ul>
 
 ## Contact Me
 
