@@ -17,7 +17,6 @@ Eager to learn new technologies and continuously improve skills to stay at the f
 <li>Data Structures and Algorithms</li>
 <li>Git</li>
 <li>GitHub</li>
-<li>Maven</li>
 </ul>
 
 ## Contact Me
